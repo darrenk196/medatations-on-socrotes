@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medatations-on-socrotes/static/css/main.4424dd89.css",
+    "main.js": "/medatations-on-socrotes/static/js/main.8d719e04.js",
+    "static/js/787.9d156989.chunk.js": "/medatations-on-socrotes/static/js/787.9d156989.chunk.js",
+    "index.html": "/medatations-on-socrotes/index.html",
+    "main.4424dd89.css.map": "/medatations-on-socrotes/static/css/main.4424dd89.css.map",
+    "main.8d719e04.js.map": "/medatations-on-socrotes/static/js/main.8d719e04.js.map",
+    "787.9d156989.chunk.js.map": "/medatations-on-socrotes/static/js/787.9d156989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4424dd89.css",
+    "static/js/main.8d719e04.js"
+  ]
+}

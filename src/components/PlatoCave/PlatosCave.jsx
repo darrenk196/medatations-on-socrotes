@@ -26,7 +26,7 @@ const PlatosCave = () => {
           the pursuit of knowledge, and how our understanding of reality can be
           limited by our experiences and perceptions. It also highlights the
           power of perspective and the need to question our assumptions and
-          beliefs to gain a deeper understanding of the world around us.
+          beliefs to gain a deeper understanding of the world around us!
         </p>
         <ReactPlayer url="https://www.youtube.com/watch?v=1RWOpQXTltA" />
       </section>

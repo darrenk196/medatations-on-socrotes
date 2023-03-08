@@ -9,8 +9,6 @@ const Navagation = () => {
             <div className="tc pb3">
                 <a className="link dim gray f6 f5-ns dib mr3" href="#" title="Home">Home</a>
                 <a className="link dim gray f6 f5-ns dib mr3" href="#" title="About">About</a>
-                <a className="link dim gray f6 f5-ns dib mr3" href="#" title="Store">Store</a>
-                <a className="link dim gray f6 f5-ns dib" href="#" title="Contact">Contact</a>
             </div>
         </nav>
     </div>
